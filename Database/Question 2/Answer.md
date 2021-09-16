@@ -1,0 +1,1 @@
+1) SELECT Movies.Genre, COUNT(Tickets.MovieID) AS 'Ticket Count' FROM Movies LEFT JOIN Tickets ON Movies.MovieID = Tickets.MovieID GROUP BY Movies.Genre

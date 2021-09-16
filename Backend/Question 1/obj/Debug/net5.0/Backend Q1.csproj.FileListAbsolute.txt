@@ -1,0 +1,32 @@
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\bin\Debug\net5.0\Backend Q1.exe
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\bin\Debug\net5.0\Backend Q1.deps.json
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\bin\Debug\net5.0\Backend Q1.runtimeconfig.json
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\bin\Debug\net5.0\Backend Q1.runtimeconfig.dev.json
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\bin\Debug\net5.0\Backend Q1.dll
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\bin\Debug\net5.0\ref\Backend Q1.dll
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\bin\Debug\net5.0\Backend Q1.pdb
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\obj\Debug\net5.0\Backend Q1.csproj.AssemblyReference.cache
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\obj\Debug\net5.0\Backend Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\obj\Debug\net5.0\Backend Q1.AssemblyInfoInputs.cache
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\obj\Debug\net5.0\Backend Q1.AssemblyInfo.cs
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\obj\Debug\net5.0\Backend Q1.csproj.CoreCompileInputs.cache
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\obj\Debug\net5.0\Backend Q1.dll
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\obj\Debug\net5.0\ref\Backend Q1.dll
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\obj\Debug\net5.0\Backend Q1.pdb
+C:\Users\Byron\Desktop\OneNebula Test\Backend Q1\obj\Debug\net5.0\Backend Q1.genruntimeconfig.cache
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\bin\Debug\net5.0\Backend Q1.exe
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\bin\Debug\net5.0\Backend Q1.deps.json
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\bin\Debug\net5.0\Backend Q1.runtimeconfig.json
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\bin\Debug\net5.0\Backend Q1.runtimeconfig.dev.json
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\bin\Debug\net5.0\Backend Q1.dll
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\bin\Debug\net5.0\ref\Backend Q1.dll
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\bin\Debug\net5.0\Backend Q1.pdb
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\obj\Debug\net5.0\Backend Q1.csproj.AssemblyReference.cache
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\obj\Debug\net5.0\Backend Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\obj\Debug\net5.0\Backend Q1.AssemblyInfoInputs.cache
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\obj\Debug\net5.0\Backend Q1.AssemblyInfo.cs
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\obj\Debug\net5.0\Backend Q1.csproj.CoreCompileInputs.cache
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\obj\Debug\net5.0\Backend Q1.dll
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\obj\Debug\net5.0\ref\Backend Q1.dll
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\obj\Debug\net5.0\Backend Q1.pdb
+C:\Users\Byron\Desktop\Byron Varty Nebula Developer Assessment\Backend\Question 1\obj\Debug\net5.0\Backend Q1.genruntimeconfig.cache
